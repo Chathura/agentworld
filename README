@@ -1,8 +1,9 @@
-The following explanation may not explain all the strategies that I have implemented in the code. So If you need more information, refer to the code.
+The following explanation may not explain all the strategies that I have implemented in the code. So If you need more information, please refer to the code.
 
 Feel free to add more ideas or to extend the code.
 
-In the “Agent world” there could maximum of two types creatures in the world.
+In the “Agent world” there could be maximum of two types creatures in the world.
+
 The agent types:
 
 SimpleCreature: Less intelligent creature.
