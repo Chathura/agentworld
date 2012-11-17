@@ -1,4 +1,6 @@
-The following explanation may not explain all the strategies that I have implemented in the code. So If you need more information, please refer to the code.
+Agents in a Grid world simulation.
+
+The following explanation may not explain all the strategies that I have implemented in the code. So If you need more information, please refer to the code. This simulation may contain bugs that I could not be bothered to fix, and certain code may have not be coded to best practice.
 
 Feel free to add more ideas or to extend the code.
 
